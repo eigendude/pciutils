@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>pciutils</name>
+  <version>3.7.0</version>
+  <description>The PCI Utilities package contains a library for portable access to PCI bus configuration registers and several utilities based on this library.</description>
+  <maintainer email="noone@nowhere.com">Unknown</maintainer>
+  <license>GPL-2.0</license>
+  <url type="website">https://mj.ucw.cz/sw/pciutils/</url>
+  <url type="repository">https://github.com/pciutils/pciutils.git</url>
+</package>
